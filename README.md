@@ -3,6 +3,10 @@
 ## Live Demo
 https://oseij96.github.io/Todo-List/
 
+## Description
+
+The Todo List App is a simple and intuitive task management application built with React and Material-UI. It allows users to organize their tasks, track progress, and stay on top of their to-do lists with ease.
+
 ## Features
 
 * Add new tasks
