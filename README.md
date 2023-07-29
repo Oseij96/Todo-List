@@ -5,10 +5,10 @@ https://oseij96.github.io/Todo-List/
 
 ## Features
 
-Add new tasks
-Mark tasks as completed
-Delete tasks
-Local storage support for persistent data
+* Add new tasks
+* Mark tasks as completed
+* Delete tasks
+* Local storage support for persistent data
 
 ## Installation
 Clone the repository:
